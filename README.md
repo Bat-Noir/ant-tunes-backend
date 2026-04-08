@@ -21,8 +21,8 @@ Backend service for Ant Tunes — a fast music streaming and downloading app.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/sumitkolhe/jiosaavn-api
-   cd jiosaavn-api
+  git clone https://github.com/Bat-Noir/ant-tunes-backend
+  cd ant-tunes-backend
    ```
 
 ### Using Docker
