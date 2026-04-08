@@ -1,17 +1,20 @@
-# JioSaavn API
+# Ant Tunes Backend 🎧
 
-![GitHub License](https://img.shields.io/github/license/sumitkolhe/jiosaavn-api)
-![GitHub Release](https://img.shields.io/github/v/release/sumitkolhe/jiosaavn-api)
+Backend service for Ant Tunes — a fast music streaming and downloading app.
 
-An Unofficial API for downloading high-quality songs, albums, playlists, and more from [JioSaavn](https://jiosaavn.com).
+## Features
+- Search songs
+- Get song details
+- Stream/download songs
+- Song suggestions
 
-## 📚 Documentation
+## Tech Stack
+- Bun / Node.js
+- TypeScript
+- JioSaavn API (unofficial)
 
-Check out the [API documentation](https://saavn.dev/docs) for detailed information on how to use the API.
-
-## 📰 Changelog
-
-For a detailed list of changes, see the [CHANGELOG](CHANGELOG.md).
+## Status
+🚧 In development
 
 ## 🔌 Running Locally
 
