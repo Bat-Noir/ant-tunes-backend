@@ -1,6 +1,6 @@
 # Ant Tunes Backend 🎧
 
-Backend service for Ant Tunes — a fast music streaming and downloading app.
+Backend service for Ant Tunes — built on top of an unofficial JioSaavn API, optimized for fast music streaming and downloading.
 
 ## Features
 - Search songs
@@ -12,6 +12,13 @@ Backend service for Ant Tunes — a fast music streaming and downloading app.
 - Bun / Node.js
 - TypeScript
 - JioSaavn API (unofficial)
+
+## Credits
+
+This project is based on:
+https://github.com/sumitkolhe/jiosaavn-api
+
+Modified, optimized, and deployed by me for AntTunes.
 
 ## Status
 🚧 In development
